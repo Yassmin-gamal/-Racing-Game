@@ -1,4 +1,4 @@
-# TEST-Racing-Game
+# Racing-Game
 Building a racing game using TivaC and Nokia 5110 lcd. <br/>
 youtube link for the game:https://youtu.be/kJ_RDARx5VU.
 
