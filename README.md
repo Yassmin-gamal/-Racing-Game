@@ -30,10 +30,4 @@ The Tiva™ C Series TM4C123GH6PM offers these features:<br/>
 > USB Micro-B plug to USB-A plug cable<br/>
 
 
-## Contributers
-- [Sayed Hassan](https://github.com/sayed-hassan-a)
-- [Menna Swilam](https://github.com/menna-swilam)
-- [Yara Khaled](https://github.com/YaraKhalidM)
-- [Ahmed Tarek](https://github.com/ahmedashour28)
-- [Ziad Mohamed](https://github.com/ZiadSENG)
-- [Yassmin Gamal](https://github.com/Yassmin-gamal)
+ 
