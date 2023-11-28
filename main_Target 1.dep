@@ -1,0 +1,53 @@
+Dependencies for Project 'main', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x6286C5A5)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (Nokia511.h)(0x62866718)
+I (Random.h)(0x6286668E)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (adc_driver.h)(0x628665EC)
+I (../Timer0/Timer_0.h)(0x6286742A)
+I (../driver/gpio.h)(0x62867F68)
+I (../driver/gpio_cfg.h)(0x628297D2)
+F (.\adc_driver.c)(0x628665E0)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-o .\adc_driver.o --omf_browse .\adc_driver.crf --depend .\adc_driver.d)
+I (../TM4C123GH6PM.h)(0x624AE478)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C4C22)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C4C22)
+I (../system_TM4C123.h)(0x532C4878)
+I (adc_driver.h)(0x628665EC)
+F (.\Random.s)(0x628666B8)(--cpu Cortex-M4 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include--list .\random.lst --xref -o .\random.o --depend .\random.d)
+F (.\Nokia5110.c)(0x62866816)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-o .\nokia5110.o --omf_browse .\nokia5110.crf --depend .\nokia5110.d)
+I (Nokia511.h)(0x62866718)
+F (..\driver\gpio.c)(0x62867F38)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-o .\gpio.o --omf_browse .\gpio.crf --depend .\gpio.d)
+I (..\driver\gpio.h)(0x62867F68)
+I (..\driver\gpio_cfg.h)(0x628297D2)
+I (..\driver\../TM4C123GH6PM.h)(0x624AE478)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C4C22)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C4C22)
+I (..\driver\../system_TM4C123.h)(0x532C4878)
+I (..\driver\MATH_LIB.h)(0x624AF792)
+F (..\driver\gpio_cfg.c)(0x62868884)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-o .\gpio_cfg.o --omf_browse .\gpio_cfg.crf --depend .\gpio_cfg.d)
+I (..\driver\gpio.h)(0x62867F68)
+I (..\driver\gpio_cfg.h)(0x628297D2)
+F (..\Timer0\Timer0.c)(0x6286BEE3)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-o .\timer0.o --omf_browse .\timer0.crf --depend .\timer0.d)
+I (..\Timer0\../../../tm4c123gh6pm11.h)(0x51D44682)
+I (..\Timer0\..//TM4C123GH6PM.h)(0x624AE478)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C4C22)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C4C22)
+I (..\Timer0\..//system_TM4C123.h)(0x532C4878)
+I (..\Timer0\Timer_0.h)(0x6286742A)
+F (.\adc_driver.h)(0x628665EC)()
+F (.\Random.h)(0x6286668E)()
+F (.\Nokia511.h)(0x62866718)()
+F (..\driver\gpio.h)(0x62867F68)()
+F (..\driver\gpio_cfg.h)(0x628297D2)()
+F (..\driver\MATH_LIB.h)(0x624AF792)()
+F (..\ADC_lab - Copy (2)\tm4c123gh6pm11.h)(0x51D44682)()
+F (..\Timer0\Timer_0.h)(0x6286742A)()

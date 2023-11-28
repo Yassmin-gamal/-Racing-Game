@@ -1,0 +1,10 @@
+.\timer0.o: ..\Timer0\Timer0.c
+.\timer0.o: ..\Timer0\../../../tm4c123gh6pm11.h
+.\timer0.o: ..\Timer0\..//TM4C123GH6PM.h
+.\timer0.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\timer0.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\timer0.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\timer0.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\timer0.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\timer0.o: ..\Timer0\..//system_TM4C123.h
+.\timer0.o: ..\Timer0\Timer_0.h

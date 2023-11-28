@@ -1,0 +1,11 @@
+--cpu Cortex-M4
+".\main.o"
+".\adc_driver.o"
+".\random.o"
+".\nokia5110.o"
+".\gpio.o"
+".\gpio_cfg.o"
+".\timer0.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x00000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\main.map" -o .\main.axf
